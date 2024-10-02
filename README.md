@@ -38,4 +38,7 @@ Los datos fueron obtenidos mediante scraping de una plataforma inmobiliaria y ab
 - Integrar más fuentes de datos para un análisis más completo.
 
 ## Visualizaciones
-Las visualizaciones interactivas del análisis están disponibles en [Power BI](enlace a Power BI si lo tienes).
+<img width="1150" alt="image" src="https://github.com/user-attachments/assets/43adb3b1-3745-4fa2-a96f-6e48554e02c5">
+<img width="1149" alt="image" src="https://github.com/user-attachments/assets/f070fbdf-4918-4f23-975d-8fc912945c3e">
+
+
