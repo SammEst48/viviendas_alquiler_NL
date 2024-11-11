@@ -1,4 +1,4 @@
-#🏘️ Análisis del Mercado de Alquiler de Viviendas en Nuevo León
+# 🏘️ Análisis del Mercado de Alquiler de Viviendas en Nuevo León
 
 # Descripción del proyecto
 Este proyecto se enfoca en analizar el mercado de alquiler de viviendas en Nuevo León a través de técnicas de scraping y análisis de datos. El objetivo es proporcionar una visión detallada sobre los precios de alquiler, las zonas más demandadas, y las características de las propiedades, como el tamaño, el número de recámaras y baños, entre otros.
